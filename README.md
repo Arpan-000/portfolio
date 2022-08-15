@@ -55,7 +55,7 @@
      <table border ="1"> 
           <tr> 
               <td>  web development </td> 
-               <td>⭐</td> 
+               <td>⭐⭐⭐</td> 
                 <td> dancing</td> 
                  <td>⭐⭐⭐</td> 
           </tr> 
