@@ -1,16 +1,4 @@
-<!DOCTYPE html> 
- <html>
-    <head> 
-         <meta charset="UTF-8">
-        <title>
-            portfolio 
-        </title>
 
-    </head> 
-      
-    <body> 
-        <table> 
-             <tr> # Portfolio Website README
 
 ## Overview
 
