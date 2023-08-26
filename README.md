@@ -36,8 +36,22 @@ A "Skills" table showcases the individual's abilities in different areas. The sk
 
 ## Conclusion
 
-This "💘portfolio" website serves as a personal introduction and portfolio for the owner. It features sections that cover various aspects of the owner's life, including education, interests, and skills. Visitors can navigate through the website to learn more about the individual and their experiences.
-            <td><img src="Your name .jpg" height = "300"alt =" picture from an anime YOUR NAME">
+This "💘portfolio" website serves as a personal introduction and portfolio for the owner. It features sections that cover various aspects of the owner's life, including education, interests, and skills. Visitors can navigate through the website to learn more about the individual and their experiences. 
+
+  <!DOCTYPE html> 
+ <html>
+    <head> 
+         <meta charset="UTF-8">
+        <title>
+            💘portfolio 
+        </title>
+
+    </head> 
+      
+    <body> 
+        <table> 
+             <tr> 
+            <td><img src="Deadpool-modified.png" height = "300"alt =" deadpool">
             </td> 
             <td> 
                 <p>  <h1>Arpan</h1> <br> 
@@ -99,4 +113,3 @@ This "💘portfolio" website serves as a personal introduction and portfolio for
 
     </body>
  </html>
- 
