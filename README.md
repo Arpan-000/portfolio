@@ -46,12 +46,12 @@ This "💘portfolio" website serves as a personal introduction and portfolio for
             💘portfolio 
         </title>
 
-    </head> 
+  </head> 
       
     <body> 
         <table> 
              <tr> 
-            <td><img src="Deadpool-modified.png" height = "300"alt =" deadpool">
+            <td><img src="Yourname.jpg" height = "300"alt =" deadpool">
             </td> 
             <td> 
                 <p>  <h1>Arpan</h1> <br> 
@@ -61,7 +61,6 @@ This "💘portfolio" website serves as a personal introduction and portfolio for
              </tr> 
             </table>
         
-           <p><a href="audio.html">clickforaudio</a></p>
 <h3> Education  </h3>
       <ul> <!-- this is to create a bullet list-->
           <li> Naagarjuna group of schools <a href="http://www.naagarjunaschools.in/index.php"> NGS website</a>  </li>   
